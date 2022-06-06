@@ -1,0 +1,9 @@
+# ninja log v5
+1407	1629	6762230406833315	Lab4.exe	30280e70348e641c
+0	888	6762231377776461	build.ninja	55d9086db30e8e6d
+7	1406	6762230404745706	CMakeFiles/Lab4.dir/main.cpp.obj	8156b00d72beff01
+48	3096	6748473849840196	CMakeFiles/Lab4.dir/Cube.cpp.obj	536e9f4df5b79e49
+34	3022	6745709650376966	CMakeFiles/Lab4.dir/Solver.cpp.obj	387aee076170a805
+1	2199	6762231474678091	CMakeFiles/CubeSolver.dir/main.cpp.obj	bace09bbee42ea
+20	2457	6762231477277839	CMakeFiles/CubeSolver.dir/Cube.cpp.obj	25aeed782f8a4ccb
+2457	2670	6762231479280634	CubeSolver.exe	412d6fd18cf1653e
