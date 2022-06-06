@@ -1,0 +1,14 @@
+# ninja log v5
+28	208	6760571192665288	CMakeFiles/MyAllocator.dir/MyAlloc.cpp.obj	9fc46b340cfd7e40
+8	4519	6760571235768005	CMakeFiles/MyAllocator.dir/main.cpp.obj	8d2ba0890996f3d4
+4519	4893	6760571239477960	MyAllocator.exe	fe01bb1b4e4a8254
+35	2631	6760571216775205	CMakeFiles/MyAllocator.dir/MyMemoryManager.cpp.obj	7cd34e4c10e5f9a8
+4	317	6760571305760100	MyAllocator.exe	e7961061e3fe2d1a
+21	1341	6760572053490243	CMakeFiles/MyAllocator.dir/MyMemoryManager.cpp.obj	7cd34e4c10e5f9a8
+23	2182	6760572190097506	CMakeFiles/MyAllocator.dir/MyMemoryManager.cpp.obj	7cd34e4c10e5f9a8
+22	2440	6760572289426396	CMakeFiles/MyAllocator.dir/MyMemoryManager.cpp.obj	7cd34e4c10e5f9a8
+8	3908	6760572304258341	CMakeFiles/MyAllocator.dir/main.cpp.obj	8d2ba0890996f3d4
+3909	4225	6760572307418306	MyAllocator.exe	e7961061e3fe2d1a
+20	1626	6760573319829726	CMakeFiles/MyAllocator.dir/MyMemoryManager.cpp.obj	7cd34e4c10e5f9a8
+5	3161	6760573335217373	CMakeFiles/MyAllocator.dir/main.cpp.obj	8d2ba0890996f3d4
+3161	3610	6760573339237359	MyAllocator.exe	e7961061e3fe2d1a
