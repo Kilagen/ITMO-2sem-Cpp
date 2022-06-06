@@ -7,7 +7,7 @@
 
 
 bool testUMap() {
-    int rounds = 1000;
+    int rounds = 1500;
     int start_time = clock();
     std::unordered_map<const int, const int, std::hash<int>, std::equal_to<>, MyAllocator<std::pair<const int, const int>, 4000, 4000>> m;
     for (int j = 1; j <= rounds; j++) {
