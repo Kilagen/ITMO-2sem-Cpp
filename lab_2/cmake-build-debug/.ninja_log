@@ -1,0 +1,20 @@
+# ninja log v5
+23	7707	6717654289480022	CMakeFiles/lab_2.dir/main.cpp.obj	39f473200382c804
+47	792	6717603440212737	CMakeFiles/lab_2.dir/Stat.cpp.obj	53973d808f80da24
+5	724	6717654219750383	CMakeFiles/lab_2.dir/CurrencyIO.cpp.obj	2f81c4760d2b4003
+4	853	6717670073334726	CMakeFiles/counter.dir/statCount.cpp.obj	3a8e196dd22de779
+5	398	6762244755273587	build.ninja	b44d31293aa74f55
+31	1239	6717603444825848	CMakeFiles/lab_2.dir/statCount.cpp.obj	7766dfc9371623f5
+29	496	6762243421176887	CMakeFiles/counter.dir/Stat.cpp.obj	282997a8ce97ef1f
+993	1720	6762243432876362	counter.exe	8460bca16accc9c6
+15	826	6762243501714991	CMakeFiles/Lab2.dir/CurrencyIO.cpp.obj	2c902d766e7ceb62
+23	992	6762243426154653	CMakeFiles/counter.dir/CurrencyIO.cpp.obj	ceb916c760830e15
+4	7112	6717657583620054	CMakeFiles/Lab2.dir/main.cpp.obj	480b4c8701e2f1c8
+690	1842	6717660317035416	Lab2.exe	8015d07ac020aedf
+8	846	6718032608442934	CMakeFiles/counter.dir/statScratch.cpp.obj	6bc9f124375017f7
+5	936	6762243425572013	CMakeFiles/counter.dir/statCalc.cpp.obj	afdf2906fa046ba
+33	1285	6762241621978831	CMakeFiles/CurrencyBot.dir/CurrencyIO.cpp.obj	cdd786681e2624b5
+7	8363	6762241692644625	CMakeFiles/CurrencyBot.dir/main.cpp.obj	67fe241932cf444b
+2	374	6762244755273587	build.ninja	b44d31293aa74f55
+8	915	6762244765448101	CMakeFiles/Lab2.dir/CurrencyIO.cpp.obj	5ba8c9b3d64b8558
+4	8784	6762244844053278	CMakeFiles/Lab2.dir/main.cpp.obj	c2f75abae8e30e0b

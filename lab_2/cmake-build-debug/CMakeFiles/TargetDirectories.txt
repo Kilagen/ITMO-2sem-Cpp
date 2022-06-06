@@ -1,0 +1,4 @@
+C:/Users/kil4g/CLionProjects/lab_2/cmake-build-debug/CMakeFiles/Lab2.dir
+C:/Users/kil4g/CLionProjects/lab_2/cmake-build-debug/CMakeFiles/counter.dir
+C:/Users/kil4g/CLionProjects/lab_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kil4g/CLionProjects/lab_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
